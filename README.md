@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!--
 **mariooef/mariooef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <div class="container">
+    <h1>Presentation</h1>
+      <p>I'm systems engineer and currently I've been taking different courses for apply to data science master because I want to inprove my skills in data analysis          and my techniques to create many efficient using data intelligence.</p>
+  </div>
+  
+  ![](https://www.palermo.edu/Archivos_content/2021/negocios/julio/data/datascience-640.jpg)
+
+
